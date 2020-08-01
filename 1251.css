@@ -1,0 +1,21 @@
+body {
+    background-color: #1a1b1c;
+    font-family: sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    border-right: 10px solid #0366a8;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+iframe {
+    margin-top: 20px;
+    border: 15px solid #0366a8;
+}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wqueqczhi1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
